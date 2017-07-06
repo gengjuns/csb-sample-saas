@@ -5,4 +5,4 @@
 * 单点登录, com.csb.sample.saas.controller.SSOController
 
 ##启动  
-clean install tomcat7:run  -Dmaven.tomcat.uriEncoding=UTF-8
+mvn clean install tomcat7:run  -Dmaven.tomcat.uriEncoding=UTF-8
